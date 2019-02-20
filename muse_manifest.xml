@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="administrator.com" resolutions="1x" timestamp="1550584731764">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="administrator.com" resolutions="1x" timestamp="1550650593542">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4135480274" ref="index"/>
+    <file name="index.css" crc="4205285625" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,20 +12,21 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="artwork-2.svg" crc="4027885956" seo="true" ref="index">
+    <file name="artwork-2.svg" crc="3867716645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="artwork 2_poster_.png" crc="320833246" ref="index"/>
-    <file name="u149-7.png" crc="3852137177" ref="index"/>
-    <file name="u142-9.png" crc="78021560" ref="index"/>
-    <file name="u146-6.png" crc="186667397" ref="index"/>
+    <file name="artwork 2_poster_.png" crc="51231878" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u160.png" crc="179984516" ref="index"/>
-    <file name="u160-r.png" crc="179984516" ref="index"/>
-    <file name="artwork-3.svg" crc="132315567" seo="true" ref="index">
+    <file name="artwork-3.svg" crc="533942155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="artwork 3_poster_.png" crc="455819498" ref="index"/>
+    <file name="artwork 3_poster_.png" crc="3968951950" ref="index"/>
+    <file name="u328.png" crc="179984516" ref="index"/>
+    <file name="u328-r.png" crc="179984516" ref="index"/>
+    <file name="u585-7.png" crc="4172279025" ref="index"/>
+    <file name="u582-6.png" crc="102214067" ref="index"/>
+    <file name="u340-9.png" crc="78021560" ref="index"/>
+    <file name="u341-6.png" crc="186667397" ref="index"/>
   </folder>
-  <file name="index.html" crc="3785104013" seo="true" mt="1550584723971" redirect="true"/>
+  <file name="index.html" crc="389216023" seo="true" mt="1550650543076" redirect="true"/>
 </manifest>
