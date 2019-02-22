@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="administrator.com" resolutions="1x" timestamp="1550654062544">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="administrator.com" resolutions="1x" timestamp="1550820391666">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="410069759" ref="index"/>
+    <file name="index.css" crc="4023560752" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,21 +12,11 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="artwork-2.svg" crc="3867716645" seo="true" ref="index">
+    <file name="center.svg" crc="3877520383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="artwork 2_poster_.png" crc="51231878" ref="index"/>
+    <file name="center_poster_.png" crc="3902413338" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="artwork-3.svg" crc="533942155" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="artwork 3_poster_.png" crc="3968951950" ref="index"/>
-    <file name="u328.png" crc="179984516" ref="index"/>
-    <file name="u328-r.png" crc="179984516" ref="index"/>
-    <file name="u585-7.png" crc="4172279025" ref="index"/>
-    <file name="u582-6.png" crc="102214067" ref="index"/>
-    <file name="u340-9.png" crc="78021560" ref="index"/>
-    <file name="u341-6.png" crc="186667397" ref="index"/>
   </folder>
-  <file name="index.html" crc="257453767" seo="true" mt="1550654048314" redirect="true"/>
+  <file name="index.html" crc="4201041861" seo="true" mt="1550820377900" redirect="true"/>
 </manifest>
